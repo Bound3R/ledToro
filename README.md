@@ -1,7 +1,7 @@
 # LEDTORO: Smart Notification Display Project
 
-This project aims to create a **physichal device that displays automated messages**, such as reminders or daily notifications.
-The idea is to use a **screen (LED, LCD, or eink)** connected to a simple app that receives and displays information in a simple way.
+This project aims to create a **physical device that displays automated messages**, such as reminders or daily notifications.
+The idea is to use a **screen (LED, LCD, or e-ink)** connected to a simple app that receives and displays information in a simple way.
 
 ---
 
